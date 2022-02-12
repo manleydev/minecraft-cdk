@@ -1,6 +1,6 @@
-# Welcome to your CDK Go project!
+# Minecraft AWS CDK Deployment
 
-This is a blank project for Go development with CDK.
+This is a project for deploying Minecraft servers with the CDK.
 
 **NOTICE**: Go support is still in Developer Preview. This implies that APIs may
 change while we address early feedback from the community. We would love to hear
